@@ -1,0 +1,10 @@
+/* IT 207 Lab Assignment 3 by Jamie Choi  */
+select {
+	display: inline-block;
+	border: 2px solid #4D6CFA;
+	border-radius: 15px;
+	height: 28px;
+	padding: 3px;
+	margin-right: 10px;
+	margin-left: 5px;
+}
